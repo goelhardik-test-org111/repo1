@@ -15,14 +15,14 @@ Thresholds:
   - Add
   - Delete
   Value: 50
-  Label: Extra SmallTest
+  Label: XS
   Color: Green
   Formula: Sum
 - GitOperationType:
   - Add
   - Delete
   Value: 100
-  Label: SmallTest
+  Label: S
   Color: Green
   Formula: Sum
 - GitOperationType:
